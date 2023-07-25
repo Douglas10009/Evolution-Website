@@ -1,4 +1,4 @@
-body,html {
+body, html {
    margin: 0;
    padding: 0;
    height: 100vh;
@@ -22,7 +22,7 @@ body,html {
    top: 0;
    left: 0;
    bottom: 0;
-   background:  #b9e6e9;
+   background:  #06eeff;
    animation: color-width 8s ease-in-out infinite;
 }
 .c2{
@@ -30,7 +30,7 @@ body,html {
    left: 0;
    right: 0;
    bottom: 0;
-   background: #da9dd6;
+   background: #100f10;
    animation: color-height 8s ease-in-out infinite;
    animation-delay: 3s;
 }
@@ -39,7 +39,7 @@ body,html {
    top: 0;
    right: 0;
    bottom: 0;
-   background: #f7f6b5;
+   background: #f6065e;
    animation: color-width 8s ease-in-out infinite;
    animation-delay: 3s;
 }
@@ -47,7 +47,7 @@ body,html {
    left: 0;
    right: 0;
    bottom: 0;
-   background: #b7b4fb;
+   background: #fb4802;
    animation: color-height 8s ease-in-out infinite;
    animation-delay: 3s;
 }
@@ -115,7 +115,7 @@ body,html {
 }
 
 .navbar {
-   background-color: #f8f9fa;
+   background-color: #454648;
 }
 
 .navbar-brand {
